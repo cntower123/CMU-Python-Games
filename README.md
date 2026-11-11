@@ -10,7 +10,7 @@ Three games I built in Python for ICS4U (Grade 12 Computer Science) using [CMU G
 
 ## Tower Defense
 
-My ICS4U summative capstone. Place towers on a grid to stop 10 waves of enemies walking a winding path.
+My Gr 12 CS summative capstone. Place towers on a grid to stop 10 waves of enemies walking a winding path.
 
 - Object-oriented design with four classes: `Enemy`, `Tower`, `Projectile` and `Wave`, organized as Model-View-Controller.
 - Three tower types (Arrow, Cannon, Sniper). Each targets the closest enemy in range; the cannon does splash damage.
@@ -49,7 +49,3 @@ My creative project: an Easter take on Pac-Man. A bunny collects 18 eggs while d
 pip install cmu-graphics
 python tower_defense.py
 ```
-
-## How I built these
-
-These were written for my Grade 12 course. I used Claude as a coding assistant for explanations, debugging and parts of the code, and I designed, tested and tuned the games myself.
