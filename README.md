@@ -1,7 +1,6 @@
 # CMU Python Games
 
-Three games I built in Python for ICS4U (Grade 12 Computer Science) using [CMU Graphics](https://academy.cs.cmu.edu/).
-
+Three games I built in Python for my Grade 12 Computer Science Class using CMU Graphics.
 | Game | File | Demo |
 | --- | --- | --- |
 | Tower Defense | `tower_defense.py` | [Watch the demo](ADD-YOUTUBE-LINK) |
@@ -39,13 +38,3 @@ My creative project: an Easter take on Pac-Man. A bunny collects 18 eggs while d
 
 **Controls:** arrow keys move, `Space` starts and restarts.
 
-## Running the games
-
-**In the browser:** create a new project on [CMU CS Academy](https://academy.cs.cmu.edu/) and paste in a file.
-
-**On your computer:**
-
-```
-pip install cmu-graphics
-python tower_defense.py
-```
