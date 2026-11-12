@@ -1,7 +1,7 @@
 from cmu_graphics import *
 #                                                  ===================================================
 #                                                  == Easter Egg Hunt - A Bunny Pac-Man if you will ==
-#                                                  ==       ICS4U - Creative Project - Liam M       ==     
+#                                                  ==             - Creative Project -               ==     
 #                                                  ==================================================
 
 #   P.S I did go a bit ahead into unti and included Parallel Lists - List multiplication - Indexing - Looping with Index and Mutation) Hope this is okay :)
