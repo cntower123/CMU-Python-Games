@@ -3,9 +3,9 @@
 Three games I built in Python for my Grade 12 Computer Science Class using CMU Graphics.
 | Game | File | Demo |
 | --- | --- | --- |
-| Tower Defense | `tower_defense.py` | [Watch the demo](ADD-YOUTUBE-LINK) |
-| Tetris | `tetris.py` | [Watch the demo](ADD-YOUTUBE-LINK) |
-| Easter Egg Hunt (Pac-Man) | `easter_egg_hunt.py` | [Watch the demo](ADD-YOUTUBE-LINK) |
+| Tower Defense | `tower_defense.py` | [Watch the demo](https://www.youtube.com/watch?v=wBvW2oEFpcI&list=PLMaUP03VcEoo&index=4) |
+| Tetris | `tetris.py` | [Watch the demo](https://www.youtube.com/watch?v=_qkO0hYGiLU&list=PLMaUP03VcEoo&index=1) |
+| Easter Pac-Man | `easter_egg_hunt.py` | [Watch the demo](https://www.youtube.com/watch?v=KUbHcWLhERs&list=PLMaUP03VcEoo&index=3) |
 
 ## Tower Defense
 
